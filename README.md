@@ -10,8 +10,8 @@ The following environment is needed to execute and play with the notebooks:
   * ipython-sql
   * matplotlib
 * install jupyter notebook (see https://jupyter.org/install)
-* install postgresql (I am using Postgres.app on Mac)
-* download the db and import the tables into the postgresql (link to the db: https://drive.google.com/file/d/1yLeedUIImPIBGlBVtzqZIvaDYiLzWi7J/view?usp=sharing)
+* install postgresql (I am using Postgres.app on Mac, see https://postgresapp.com/)
+* download the db and import the tables into the postgresql: https://drive.google.com/file/d/1yLeedUIImPIBGlBVtzqZIvaDYiLzWi7J/view?usp=sharing
 
 Notes on the db import: 
 * create a db and in that create the schema “change_schema” 
